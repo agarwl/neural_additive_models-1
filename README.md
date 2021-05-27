@@ -24,23 +24,6 @@ The code was tested under Ubuntu 16 and uses these packages:
 - pandas>=0.24
 - absl-py
 
-Citing
-------
-If you use this code in your research, please cite the following paper:
-
-> Agarwal, R., Frosst, N., Zhang, X., Caruana, R., & Hinton, G. E. (2020).
-> Neural additive models: Interpretable machine learning with neural nets.
-> arXiv preprint arXiv:2004.13912
-
-
-      @article{agarwal2020neural,
-        title={Neural additive models: Interpretable machine learning with neural nets},
-        author={Agarwal, Rishabh and Frosst, Nicholas and Zhang, Xuezhou and
-        Caruana, Rich and Hinton, Geoffrey E},
-        journal={arXiv preprint arXiv:2004.13912},
-        year={2020}
-      }
-
 ---
 
 *Disclaimer about COMPAS dataset: It is important to note that
@@ -54,5 +37,3 @@ is a member -- that creates guidelines around AI.*
 *We’re using the COMPAS dataset only as an example of how to identify and
 remediate fairness concerns in data. This dataset is canonical in the
 algorithmic fairness literature.*
-
-*Disclaimer: This is not an official Google product.*
