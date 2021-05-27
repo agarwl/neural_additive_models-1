@@ -1,8 +1,6 @@
 ## Neural Additive Models: Interpretable Machine Learning with Neural Nets
 
-This repository contains open-source code
-for the paper
-[Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/abs/2004.13912).
+This repository contains open-source code  for NAMs.
 
 <img src="https://i.imgur.com/Hvb7sb2.jpg" width="50%" alt="Neural Additive Model" >
 
